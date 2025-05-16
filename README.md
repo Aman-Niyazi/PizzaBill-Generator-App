@@ -16,11 +16,11 @@ Features
 
 Tech Stack
 
-Language: Java
+* Language: Java
 
-GUI Framework: Java Swing
+* GUI Framework: Java Swing
 
-Architecture: Standalone Desktop Application (OOP-based)
+* Architecture: Standalone Desktop Application (OOP-based)
 
 How to Run
 
