@@ -4,9 +4,13 @@ The Pizza Bill Generator App is a simple Java-based desktop application develope
 
 Features
 1.Interactive user interface using Java Swing
+
 2.Real-time calculation of pizza bills
+
 3.Option to select pizza type and additional toppings
+
 4.Display of total cost based on user selection
+
 5.Clean and modular codebase for easy understanding and modification
 
 Tech Stack
